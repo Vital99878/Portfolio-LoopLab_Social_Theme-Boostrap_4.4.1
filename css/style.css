@@ -26,7 +26,7 @@ body {
     padding-top: 150px;
 }
 
-#home-section .fa{
+#home-section .fa, #create-section .fa{
     color: cornflowerblue;
     background: #ffffff;
     padding: 5px;
@@ -38,9 +38,10 @@ body {
     padding: 5px;
     border-radius: 5px;
 }
-#explore-section .fa{
+#explore-section .fa, #share-section .fa{
     color: #ffffff;
     background: #333333;
     padding: 5px;
     border-radius: 5px;
 }
+
